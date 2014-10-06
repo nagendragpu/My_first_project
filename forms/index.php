@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>Form Sample</title>
+	<title>Form simple</title>
 	<link rel="stylesheet" href="normalize.css" />
 	<link rel="stylesheet" href="mystyle.css" />
 	<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
